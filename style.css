@@ -1,0 +1,23 @@
+.style-fc {
+	margin: 10px;
+}
+
+.style-btn {
+	margin: 10px;
+}
+
+.img-wrapper {
+	width: 200px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 10px;
+	background-color: #eee
+}
+
+.style-p {
+	width: 750px;
+	height: 400px;
+	margin: 10px;
+	overflow: auto;
+	word-wrap: break-word;
+}
